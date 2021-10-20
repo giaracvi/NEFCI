@@ -14,7 +14,6 @@ Corresponding author: Cedric Marco-Detchart (cedric.marco@unavarra.es)
 
 The article can be found in PDF format here, as the file **"Neuro-inspired-edge-feature-fusion-using-Choquet-integrals.pdf"**.
 
---------------------------------------------------------------------------------
 
 ## Source code
 
@@ -44,7 +43,6 @@ Each one of the phases of the experiment is located in one file, as follows:
 
 - **"README.md"** this file.
 
---------------------------------------------------------------------------------
 
 ## Results
 
